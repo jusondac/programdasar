@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-	cout << "hello world"<<endl;
+	int a,b;
+	cin >> a>>b;
+	cout << "nilai a = "<< a <<" /nnilai b = "<<b<<endl;
 	return 0;
 }
